@@ -1,10 +1,18 @@
 public class Calculator {
 
-    delete OS
+    public int add(int a, int b) {
+        return a + b;
+    }
 
-            send bad emails
+    public int subtract(int a, int b) {
+        return a - b;
+    }
 
-    lose martin's job for him
+    public int multiply(int a, int b) {
+        return a * b;
+    }
 
-
+    public double divide(double a, double b) {
+        return a / b;
+    }
 }
